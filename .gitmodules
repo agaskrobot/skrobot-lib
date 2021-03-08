@@ -1,0 +1,3 @@
+[submodule "skrobot-app"]
+	path = skrobot-app
+	url = https://github.com/agaskrobot/skrobot-app.git
